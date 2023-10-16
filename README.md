@@ -3,7 +3,7 @@
 📍 Çekmeköy - İSTANBUL  
 📞 +90 552 522 67 12  
 📧 huseyinsoylus@outlook.com  
-🌐 @huseyinsoylus.github.io  
+🌐 @huseyiso.github.io  
 🗓 May 18, 1998 - Born in Isparta
 
 ## About Me
@@ -70,7 +70,7 @@ I first encountered computers professionally during my high school years. After 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="80" height="80"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="80" height="80"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="jira" width="80" height="80" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-plain.svg" alt="postman" width="80" height="80"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="80" height="80"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="jenkins" width="80" height="80" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="80" height="80"/>
 </p>
