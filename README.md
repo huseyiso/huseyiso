@@ -21,33 +21,12 @@ I first encountered computers professionally during my high school years. After 
 **Key Takeaways**:  
 - Team collaboration.
 
-### LookUs Scientific Inc.  
-**Software Engineer** | May 2022 - April 2023  
-- Designed and coded .Net-based software solutions, especially CMS systems for associations.
-- Supported products and services for scientific events like congresses and meetings.
-
-**Key Takeaways**:  
-- Development, debugging, replication, and maintenance for .Net ASP, Web Form, Core, and Desktop applications.
-- Managed Windows Server, DNS, IIS, utilized LINQ, Entity Framework, SQL Server, Postman, Git, FTP, and Web API.
-
-### Freelance Software Developer  
-**Software Developer** | 2018 - 2022  
-- Delivered web and desktop software solutions from personal contacts and online ads.
-
-**Key Takeaways**:  
-- Integrated Cryptocurrency Payment Systems.
-- Developed Web Applications using PHP & .Net.
-
 ## Education
 
 - **Marmara University**  
   Bachelor of Computer Engineering | 2018 - Present  
-  GPA: 2.90/4.00
-
-- **Ümraniye Technical Anatolian High School**  
-  Database Programming | 2014 - 2018  
-  Score: 80.12/80
-
+  GPA: 3.05/4.00
+  
 ## Technical Skills
 
 ### Languages
@@ -74,15 +53,12 @@ I first encountered computers professionally during my high school years. After 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="jenkins" width="80" height="80" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="80" height="80"/>
 </p>
-## Projects
 
-- **GG Beauty Beauty Salon Application**  
-  C# Desktop Programming (OOP) | August 2020 - October 2020  
-  [View on GitHub](https://github.com/huseyinsoylus/c-sharp-beauty-saloon)
 
-- **.Net Core 6.0 To Do App**  
-  School Project | March 2022  
-  [View Project](https://todoapp.soylutech.com/)
+- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=huseyiso&show_icons=true&locale=en&layout=compact" alt="huseyiso" /></p>
+
+- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huseyiso&" alt="huseyiso" /></p>
+
 
 ## Social Responsibilities
 
